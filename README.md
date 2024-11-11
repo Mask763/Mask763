@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+## &#128736; Мой стек
+
+[![My Skills](https://skillicons.dev/icons?i=py,django,sqlite,postgres,nginx,docker,bash,postman,linux,git,github&theme=dark)](https://skillicons.dev)
+
 <!--
 **Mask763/Mask763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
