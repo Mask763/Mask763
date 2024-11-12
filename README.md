@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&descAlignY=73&descAlign=45&fontAlignY=50&section=header&textBg=false&fontSize=0&strokeWidth=0)
+![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=FF6F3C&descAlignY=73&descAlign=45&fontAlignY=50&section=footer&textBg=false&fontSize=0&strokeWidth=0)
 
 # Hi there, I am Maksim Severin 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF6F3C&center=true&width=435&lines=Python+developer;1+year+of+work+experience;Always+up+for+new+challenges)](https://git.io/typing-svg)
 
 ## &#128736; Tech Stack
 
@@ -21,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&descAlignY=73&descAlign=45&fontAlignY=50&section=footer&textBg=false&fontSize=0&strokeWidth=0)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=FF6F3C&descAlignY=73&descAlign=45&fontAlignY=50&section=footer&textBg=false&fontSize=0&strokeWidth=0)
