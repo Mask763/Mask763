@@ -1,9 +1,11 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&descAlignY=73&descAlign=45&fontAlignY=50&section=header&textBg=false&fontSize=0&strokeWidth=0)
+
+# Hi there, I am Maksim Severin 👋
 
 
-## &#128736; Мой стек
+## &#128736; Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,sqlite,postgres,nginx,docker,bash,postman,linux,git,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,sqlite,postgres,nginx,docker,bash,postman,linux,git,github&theme=dark)](https://skillicons.dev)
 
 <!--
 **Mask763/Mask763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&descAlignY=73&descAlign=45&fontAlignY=50&section=footer&textBg=false&fontSize=0&strokeWidth=0)
