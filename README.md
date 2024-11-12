@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=120&color=FF6F3C&descAlignY=73&descAlign=45&fontAlignY=50&section=footer&textBg=false&fontSize=0&strokeWidth=0)
+![header](https://capsule-render.vercel.app/api?type=waving&height=100&color=FF6F3C&descAlignY=73&descAlign=45&fontAlignY=50&section=header&textBg=false&fontSize=0&strokeWidth=0)
 
 # Hi there, I am Maksim Severin 👋
 
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=FF6F3C&descAlignY=73&descAlign=45&fontAlignY=50&section=footer&textBg=false&fontSize=0&strokeWidth=0)
+![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=FF6F3C&descAlignY=73&descAlign=45&fontAlignY=50&section=footer&textBg=false&fontSize=0&strokeWidth=0)
